@@ -1,0 +1,10 @@
+name: june18_python_intro
+
+dependencies:
+  - python=3.7
+  - jupyter
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - networkx
