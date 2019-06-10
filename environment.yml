@@ -9,3 +9,5 @@ dependencies:
   - scipy
   - networkx
   - seaborn
+  - holoviews
+  - lifelines
