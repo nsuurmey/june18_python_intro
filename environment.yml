@@ -13,3 +13,5 @@ dependencies:
   - lifelines
   - hvplot
   - scipy
+  - xlrd
+  - sklearn
